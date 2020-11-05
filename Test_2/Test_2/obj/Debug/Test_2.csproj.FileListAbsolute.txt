@@ -1,0 +1,15 @@
+D:\CSDL_file\Test_2\Test_2\bin\Debug\Test_2.exe.config
+D:\CSDL_file\Test_2\Test_2\bin\Debug\Test_2.exe
+D:\CSDL_file\Test_2\Test_2\bin\Debug\Test_2.pdb
+D:\CSDL_file\Test_2\Test_2\obj\Debug\Test_2.csprojAssemblyReference.cache
+D:\CSDL_file\Test_2\Test_2\obj\Debug\MainWindow.g.cs
+D:\CSDL_file\Test_2\Test_2\obj\Debug\App.g.cs
+D:\CSDL_file\Test_2\Test_2\obj\Debug\Test_2_MarkupCompile.cache
+D:\CSDL_file\Test_2\Test_2\obj\Debug\Test_2_MarkupCompile.lref
+D:\CSDL_file\Test_2\Test_2\obj\Debug\MainWindow.baml
+D:\CSDL_file\Test_2\Test_2\obj\Debug\Test_2.g.resources
+D:\CSDL_file\Test_2\Test_2\obj\Debug\Test_2.Properties.Resources.resources
+D:\CSDL_file\Test_2\Test_2\obj\Debug\Test_2.csproj.GenerateResource.cache
+D:\CSDL_file\Test_2\Test_2\obj\Debug\Test_2.csproj.CoreCompileInputs.cache
+D:\CSDL_file\Test_2\Test_2\obj\Debug\Test_2.exe
+D:\CSDL_file\Test_2\Test_2\obj\Debug\Test_2.pdb
